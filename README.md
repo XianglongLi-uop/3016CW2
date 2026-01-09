@@ -20,3 +20,5 @@ The signature in the lower right corner is displayed as a quadrilateral
 - Rotating platform: Continuously rotates around the Y axis
 - Mobile platform: sinusoidal reciprocating movement
 - Collection: Continuous spinning animation
+- 4：Background music: loop playback
+Collection success reminder music: Play for only one second and then stop. If the previous song hasn't finished playing when the new song starts, stop the previous song and play the new one
